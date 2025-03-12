@@ -1,0 +1,40 @@
+Meme idée que pour le rapport:
+
+You:    Présentation du projet,
+	Choix > On avait le plus d'idées, déjà jouer a Puzzle Quest, etc...
+	jeux d'inspirations > Ressemblances: grille + personnages sur les cotes / Differences: suppression des boules, 1 avec timer, 1 ou il faut en aligner le max d'un coup
+	règles > Boules différentes actions selon couleur / match 3 donc suppression à 3 boules, mais pas de dégats, + on supprime + on est puissant
+
+	Explication du principe de la boucle principale
+	> Présentation du jeu à partir du lancement
+	Initialisation > Boucle du jeu > captage des evenements (style, bouger la souris) > modification du jeu en fonction > affichage > re-tour de boucle
+	
+	> Préciser que je skipp les animations car pas très utile d'expliquer ca
+	> Présentation des Menus > Première chose qu'on voit quand on arrive sur le jeu
+				 > Carte permet de lancer les niveaux
+
+Aug:    > Début du niveau
+	Initialisation
+	Donc héros + grille
+
+Fra:    > Initialisation du héros
+	Comment il fonctionne
+	Exemple: fonction VieHeros > une des plus importantes
+		  Penser à décrire la formule de soins et dégats, qui permet juste de monter la puissance selon le nbr de boules alignées
+	Explication de quelques fonctions
+
+	> Initialisation de l'ennemi
+	Comment is fonctionne
+
+Pau:    > Fonctionnement de la grille
+	Initialisation
+	Les boules aussi
+	Explication d'au moins une fonction
+
+Aug:    > Retour sur la boucle niveau et son fonctionnement
+	Expliquer les grandes étapes
+
+
+You:    > Conclusion
+
+	>> Gameplay

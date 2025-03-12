@@ -1,0 +1,11 @@
+\beamer@sectionintoc {1}{Présentation du projet}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Problématique}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Objectifs}{4}{0}{1}
+\beamer@sectionintoc {2}{Décomposition des taches }{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Générateur de donnée (désordre)}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Implémentation des algorithmes }{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{visualisation }{7}{0}{2}
+\beamer@subsectionintoc {2}{4}{Le Héros}{8}{0}{2}
+\beamer@subsubsectionintoc {2}{4}{1}{L'Ennemi}{11}{0}{2}
+\beamer@sectionintoc {3}{Début de l’expérimentation }{12}{0}{3}
+\beamer@sectionintoc {4}{conclusion }{13}{0}{4}
